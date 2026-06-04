@@ -73,7 +73,7 @@ export default function Contact() {
         {/* Divider */}
         <div style={{ display: "flex", alignItems: "center", gap: "16px", marginBottom: "24px" }}>
           <div style={{ flex: 1, height: "1px", background: "rgba(255,255,255,0.08)" }} />
-          <span style={{ color: "rgba(255,255,255,0.3)", fontSize: "13px", whiteSpace: "nowrap" }}>atau isi form di bawah</span>
+          <span style={{ color: "rgba(255,255,255,0.3)", fontSize: "13px", whiteSpace: "nowrap" }}>atau kirim email</span>
           <div style={{ flex: 1, height: "1px", background: "rgba(255,255,255,0.08)" }} />
         </div>
 
