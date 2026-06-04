@@ -27,6 +27,6 @@ export const portfolioItems = [
     description:
       "Website modern untuk perusahaan dengan desain simple & premium.",
     tech: ["Next.js"],
-    url: "https://www.aneka-regalindo.com/",
+    url: "https://www.aneka-regalindo.com",
   },
 ];
